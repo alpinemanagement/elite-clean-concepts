@@ -33,6 +33,7 @@ img{max-width:100%;display:block}
 .text-link{display:inline-flex;gap:12px;align-items:center;color:var(--pine);font-size:14px;font-weight:700}
 .text-link span{font-size:20px;transition:transform .2s}
 .text-link:hover span{transform:translateX(4px)}
+.text-link.foo {color:black}
 .trust-note{display:flex;align-items:center;gap:10px;color:var(--muted);font-size:12px;margin-top:42px}
 .trust-dot{width:8px;height:8px;background:var(--lime);border-radius:50%}
 .hero-image-wrap{position:relative}
